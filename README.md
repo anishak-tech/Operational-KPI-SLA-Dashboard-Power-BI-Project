@@ -454,7 +454,7 @@ This project demonstrates expertise in:
 
 Anisha K
 
-Aspiring Data Analyst | Power BI Developer
+Data Analyst | Power BI Developer
 
 ---
 
